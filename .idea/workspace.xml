@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1a7a9d0-bda3-45f3-b0dd-322ce224cc61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TextReplacement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Equation2Degree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Equation2Degree.java" afterDir="false" />
-    </list>
+    <list default="true" id="b1a7a9d0-bda3-45f3-b0dd-322ce224cc61" name="Changes" comment="third commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,11 +84,24 @@
       <updated>1727673560490</updated>
       <workItem from="1727673561767" duration="15442000" />
       <workItem from="1727830088851" duration="1028000" />
-      <workItem from="1727839315487" duration="5288000" />
+      <workItem from="1727839315487" duration="5601000" />
     </task>
+    <task id="LOCAL-00001" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1727872293378</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727872293378</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
 </project>
