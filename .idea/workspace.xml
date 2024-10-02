@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1a7a9d0-bda3-45f3-b0dd-322ce224cc61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicQueries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConvertToUpper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivisibleNumbers3Digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EvenSubsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextReplacement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Equation2Degree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Equation2Degree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hiumonday"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hiumonday/project1.git",
+    "accountId": "a8146071-09d7-4743-a92b-62fde5eec2dc"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -52,12 +52,14 @@
     "Application.ConvertToUpper.executor": "Run",
     "Application.CountWords.executor": "Run",
     "Application.DivisibleNumbers3Digits.executor": "Run",
+    "Application.Equation2Degree.executor": "Run",
     "Application.EvenSubsequences.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.TextReplacement.executor": "Run",
     "Application.WordCount.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -86,7 +88,7 @@
       <updated>1727673560490</updated>
       <workItem from="1727673561767" duration="15442000" />
       <workItem from="1727830088851" duration="1028000" />
-      <workItem from="1727839315487" duration="2850000" />
+      <workItem from="1727839315487" duration="5288000" />
     </task>
     <servers />
   </component>
